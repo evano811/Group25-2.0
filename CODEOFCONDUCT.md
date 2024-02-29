@@ -112,6 +112,9 @@ Meetings will take place at 1230 on Thursdays after 305 class. Location is fluid
 
 SCRUM master will take notes of every meeting
 
+## Phone Policy
+
+Phones will not be used in class except for academic purposes not hindering the class
 
 ## Attribution
 
@@ -131,3 +134,7 @@ For answers to common questions about this code of conduct, see the FAQ at
 [Mozilla CoC]: https://github.com/mozilla/diversity
 [FAQ]: https://www.contributor-covenant.org/faq
 [translations]: https://www.contributor-covenant.org/translations
+
+## Signatures
+
+![joesSign](https://github.com/evano811/Group25-2.0/blob/main/img/JoeSignature.png)
