@@ -1,1 +1,4 @@
-MapIt is an innovative application that uses crowd sourcing to create a dynamic map of events happening on your campus. By allowing users to add events, MapIt provides a real-time, comprehensive view of what's happening around you. Whether it's a study group, a guest lecture, or a spontaneous game of frisbee, MapIt ensures you'll never miss out on campus events. Stay connected, stay informed, and make the most of your campus life with MapIt.
+MapIt is an innovative application that uses crowd sourcing to create a dynamic map of events happening on your campus. 
+By allowing users to add events, MapIt provides a real-time, comprehensive view of what's happening around you. 
+Whether it's a study group, a guest lecture, or a spontaneous game of frisbee, MapIt ensures you'll never miss out on campus events. 
+Stay connected, stay informed, and make the most of your campus life with MapIt.
