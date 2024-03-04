@@ -140,3 +140,5 @@ For answers to common questions about this code of conduct, see the FAQ at
 ![joesSign](https://github.com/evano811/Group25-2.0/blob/main/img/JoeSignature.png)
 ![PaulsSign](https://github.com/evano811/Group25-2.0/blob/main/img/PaulSignature.jpg)
 ![AndrewsSign](https://github.com/evano811/Group25-2.0/blob/main/img/andrew_sig.png)
+![EvansSign](https://github.com/evano811/Group25-2.0/blob/main/img/EO_Signature.png)
+![AlexsSign](https://github.com/evano811/Group25-2.0/blob/main/img/Signature%20screenshot.png)
