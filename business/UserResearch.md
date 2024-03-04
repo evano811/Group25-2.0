@@ -10,11 +10,11 @@
 
 ## Observation 2:
 
-- **Observation Statement:**
+- **Users have a base of using map related apps:**
   
-- **Supporting Data:**
+- **Out of 54 responses, 52 people said that they were familiar with using a map applications such as Google maps or Waze.**
   
-- **Team Action (if any):**
+- **Team Action (if any): Attempt to create a map application that would be useful for students to use around a college campus**
 
 - ## Observation 3:
 
