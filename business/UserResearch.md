@@ -34,8 +34,8 @@
 
 - ## Observation 5:
 
-- **Observation Statement:**
+- **Observation Statement: Most people have a hard time finding or learning about even on Campus**
   
-- **Supporting Data:**
+- **Supporting Data: Out of 54 Response, only 4 people rated below a 3 in this section of the survey**
   
-- **Team Action (if any):**
+- **Team Action (if any): Try to find and add into our app as many organization and events as possible so people are able to learn about things going on.**
