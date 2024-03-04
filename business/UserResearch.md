@@ -18,11 +18,11 @@
 
 - ## Observation 3:
 
-- **Observation Statement:**
+- **Observation Statement: There seems to be a near even split between Commuters and Students who Live on Campus**
   
-- **Supporting Data:**
+- **Supporting Data: Survey Results show that 55.6% commute and 44.4% live on campus.**
   
-- **Team Action (if any):**
+- **Team Action (if any): Look into incorporating shuttle services for commuters**
 
 ## Observation 4:
 
