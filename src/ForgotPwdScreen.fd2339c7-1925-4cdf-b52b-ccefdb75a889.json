@@ -55,6 +55,53 @@
     },
     "children": [
         {
+            "type": "Image",
+            "translatedName": "Image",
+            "properties": {
+                "Picture": "Mapit.png",
+                "resizeMode": "stretch",
+                "Height": 135,
+                "Width": 228,
+                "Visible": true,
+                "X": 77,
+                "Y": 14,
+                "RelativeX": 77,
+                "RelativeY": 14,
+                "ResizeMode": "STRETCH",
+                "style": {
+                    "marginTop": 0,
+                    "marginBottom": 0,
+                    "marginLeft": 0,
+                    "marginRight": 0,
+                    "paddingTop": 0,
+                    "paddingBottom": 0,
+                    "paddingLeft": 0,
+                    "paddingRight": 0,
+                    "shadowColor": "rgba(0, 0, 0, 0)",
+                    "shadowOpacity": 0,
+                    "scaledShadowOpacity": 0,
+                    "shadowRadius": 0,
+                    "shadowOffset": {
+                        "width": 0,
+                        "height": 0
+                    },
+                    "position": "absolute",
+                    "left": "14.8%",
+                    "top": "12.263399550224888%",
+                    "display": "flex"
+                },
+                "capInsets": {},
+                "ParentId": "ae997fcb-c2aa-4331-ae9c-8a7cd57d7e9c",
+                "position": "absolute",
+                "edgeOffsets": 14.999999999999998
+            },
+            "children": [],
+            "id": "1d033115-d612-40db-84a6-dcdc6f7118e7",
+            "thunkableVersion": 448,
+            "bindings": null,
+            "name": "Logo5"
+        },
+        {
             "type": "Button",
             "translatedName": "Button",
             "properties": {
@@ -63,7 +110,7 @@
                 "FontSize": 20,
                 "Font": "",
                 "CustomFont": "",
-                "BackgroundColor": "rgba(93, 122, 252, 100)",
+                "BackgroundColor": "rgba(56, 182, 255, 1)",
                 "Height": 49,
                 "Width": 311,
                 "Visible": true,
@@ -326,9 +373,9 @@
                 "Width": 315,
                 "Visible": true,
                 "X": 31,
-                "Y": 145,
+                "Y": 171,
                 "RelativeX": 31,
-                "RelativeY": 145,
+                "RelativeY": 171,
                 "ResizeMode": "STRETCH",
                 "style": {
                     "color": "rgba(0, 0, 0, 1)",
@@ -371,7 +418,7 @@
                 },
                 "ParentId": "fd2339c7-1925-4cdf-b52b-ccefdb75a889",
                 "position": "absolute",
-                "edgeOffsets": 145,
+                "edgeOffsets": 171,
                 "children": "Forgot Password"
             },
             "children": [],

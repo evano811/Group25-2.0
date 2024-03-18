@@ -58,15 +58,62 @@
             "type": "Image",
             "translatedName": "Image",
             "properties": {
+                "Picture": "Mapit.png",
+                "resizeMode": "stretch",
+                "Height": 52,
+                "Width": 113,
+                "Visible": true,
+                "X": 131,
+                "Y": 14,
+                "RelativeX": 131,
+                "RelativeY": 14,
+                "ResizeMode": "STRETCH",
+                "style": {
+                    "marginTop": 0,
+                    "marginBottom": 0,
+                    "marginLeft": 0,
+                    "marginRight": 0,
+                    "paddingTop": 0,
+                    "paddingBottom": 0,
+                    "paddingLeft": 0,
+                    "paddingRight": 0,
+                    "shadowColor": "rgba(0, 0, 0, 0)",
+                    "shadowOpacity": 0,
+                    "scaledShadowOpacity": 0,
+                    "shadowRadius": 0,
+                    "shadowOffset": {
+                        "width": 0,
+                        "height": 0
+                    },
+                    "position": "absolute",
+                    "left": "14.8%",
+                    "top": "12.263399550224888%",
+                    "display": "flex"
+                },
+                "capInsets": {},
+                "ParentId": "ae997fcb-c2aa-4331-ae9c-8a7cd57d7e9c",
+                "position": "absolute",
+                "edgeOffsets": 14
+            },
+            "children": [],
+            "id": "b8ca04c8-4e40-47a2-9e44-a35d2c801d02",
+            "thunkableVersion": 448,
+            "bindings": null,
+            "name": "Logo4"
+        },
+        {
+            "type": "Image",
+            "translatedName": "Image",
+            "properties": {
                 "Picture": "Screenshot 2024-03-18 at 2.36.36 PM.png",
                 "resizeMode": "stretch",
                 "Height": 26,
                 "Width": 28,
                 "Visible": true,
                 "X": 26,
-                "Y": 105,
+                "Y": 154,
                 "RelativeX": 26,
-                "RelativeY": 105,
+                "RelativeY": 154,
                 "ResizeMode": "STRETCH",
                 "style": {
                     "marginTop": 0,
@@ -93,7 +140,7 @@
                 "capInsets": {},
                 "ParentId": "844fecca-fabb-4851-82da-9e86de3e94cf",
                 "position": "absolute",
-                "edgeOffsets": 105
+                "edgeOffsets": 154
             },
             "children": [],
             "id": "00904501-f73c-4dc5-b62c-f9c67052bfb9",
@@ -111,9 +158,9 @@
                 "Width": 283,
                 "Visible": true,
                 "X": 60,
-                "Y": 97,
+                "Y": 146,
                 "RelativeX": 60,
-                "RelativeY": 97,
+                "RelativeY": 146,
                 "ResizeMode": "STRETCH",
                 "style": {
                     "color": "rgba(0, 0, 0, 1)",
@@ -158,7 +205,7 @@
                 "underlineColorAndroid": "rgba(0, 0, 0, 0)",
                 "ParentId": "844fecca-fabb-4851-82da-9e86de3e94cf",
                 "position": "absolute",
-                "edgeOffsets": 97,
+                "edgeOffsets": 146,
                 "placeholder": "Search for an Event"
             },
             "children": [],
@@ -176,14 +223,14 @@
                 "FontSize": 16,
                 "Font": "",
                 "CustomFont": "",
-                "BackgroundColor": "rgba(93, 122, 252, 100)",
+                "BackgroundColor": "rgba(56, 182, 255, 1)",
                 "Height": 42,
                 "Width": 172,
                 "Visible": true,
                 "X": 26,
-                "Y": 513,
+                "Y": 583,
                 "RelativeX": 26,
-                "RelativeY": 513,
+                "RelativeY": 583,
                 "ResizeMode": "STRETCH",
                 "style": {
                     "marginTop": 0,
@@ -214,7 +261,7 @@
                 "Disabled": false,
                 "ParentId": "837324b8-795b-4966-91a0-1616b5648adc",
                 "position": "absolute",
-                "edgeOffsets": 513
+                "edgeOffsets": 583
             },
             "children": [],
             "id": "2406ae7f-16e8-4697-8c24-78caa23c19e1",
@@ -238,9 +285,9 @@
                 "Width": 311,
                 "Visible": true,
                 "X": 32,
-                "Y": 36,
+                "Y": 80,
                 "RelativeX": 32,
-                "RelativeY": 36,
+                "RelativeY": 80,
                 "ResizeMode": "STRETCH",
                 "style": {
                     "color": "rgba(0, 0, 0, 1)",
@@ -283,7 +330,7 @@
                 },
                 "ParentId": "837324b8-795b-4966-91a0-1616b5648adc",
                 "position": "absolute",
-                "edgeOffsets": 36,
+                "edgeOffsets": 80,
                 "children": "Today's Events"
             },
             "children": [],
@@ -303,9 +350,9 @@
                 "Width": 311,
                 "Visible": true,
                 "X": 32,
-                "Y": 146,
+                "Y": 218,
                 "RelativeX": 32,
-                "RelativeY": 146,
+                "RelativeY": 218,
                 "ResizeMode": "STRETCH",
                 "style": {
                     "marginTop": 0,
@@ -350,7 +397,7 @@
                 "legalLabelInsets": {},
                 "ParentId": "837324b8-795b-4966-91a0-1616b5648adc",
                 "position": "absolute",
-                "edgeOffsets": 146
+                "edgeOffsets": 218
             },
             "children": [],
             "id": "b5859278-1251-418b-9155-b7bde61fcbfa",
