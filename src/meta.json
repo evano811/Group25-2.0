@@ -39,21 +39,26 @@
                     "__v": 0,
                     "signedUrl": "https://storage.googleapis.com/thunkable-x-production/users/65afe4c7f0d09be7f6eb7c2e/projects/65e9eab41326e32e2e6d6646/assets/65f88b10c56bd2a07895c589?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=thunkable-ios%40thunkable-ios.iam.gserviceaccount.com%2F20240318%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20240318T184225Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=2da267b0d9ea378c18d8fda9635e2c4169eb26304dd676549a5ab5f710f91b69f85a7189ea0143763939b48fce1cbb842008e448a6aec201b0507b72b4299b7f9f5a67910ba2926b069bd19086d553b259588c8ca3dde0711eb3b11867eb6ea8bcf9ed291677613db05da90e05ff8a7e48cb8dd12c1c01b0bf8faf02ff8f1869d4d6561b938b0c3aefbd71a25efac99e1cdc60bc843e0e69d97b6800dece2a400eaf6f70c5ab80474f3b64bd2e8e7b69b27a7e20ad6cfc468fc92dbbe573345b15d103865c1d569ffeb450962f68c455e83b9a645e02db45f49b1bd0a8e558873cf1aaf343dd08595c8c57552d9d79920a3b5969b7c42906d1fe5e4a437478e0",
                     "signedUrlExpirationTime": 1710960145197
+                },
+                "65f8c609c56bd2a078b7d353": {
+                    "externalStorageType": "GCS",
+                    "_id": "65f8c609c56bd2a078b7d353",
+                    "size": "46228",
+                    "mimetype": "image/png",
+                    "encoding": "7bit",
+                    "originalname": "Screenshot 2024-03-18 at 6.53.34 PM.png",
+                    "backendURI": "/project/65e9eab41326e32e2e6d6646/getasset/65f8c609c56bd2a078b7d353",
+                    "name": "Screenshot 2024-03-18 at 6.53.34 PM.png",
+                    "externalName": "users/65afe4c7f0d09be7f6eb7c2e/projects/65e9eab41326e32e2e6d6646/assets/65f8c609c56bd2a078b7d353",
+                    "createdAt": "2024-03-18T22:54:01.764Z",
+                    "updatedAt": "2024-03-18T22:54:01.764Z",
+                    "__v": 0,
+                    "signedUrl": "https://storage.googleapis.com/thunkable-x-production/users/65afe4c7f0d09be7f6eb7c2e/projects/65e9eab41326e32e2e6d6646/assets/65f8c609c56bd2a078b7d353?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=thunkable-ios%40thunkable-ios.iam.gserviceaccount.com%2F20240318%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20240318T225401Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=006f91a1cdf4195f38b24dd63f54f93a7c4a930aa630ea19af51b50a5eb2facdd35b6b6bb50e0f79dfca5ed2cef1ccb44aea513c2c672b1208849ede33d2c563cd64fc0610389e9ac4c9144330b03fd7a4ddb64f3635e7b05f44ade5f3ae6d528ac6213452da0b91b70b1737f0efc5cf4fdef7c0c5e10c2011817c77d08928aef98631fdabb414c66f4db20563245f5f2e23117756da1075d492b34a7f8204862c533da11d536d83118524bc24553aff97ff51459421a2358a007ac09255cba300550176e84871ff2db1e6d1b69450c36f8035b14ab064e6529defa81fd1a17850138e48481b3f5329138d2778c7e4ea60f4d6d559803ac3ecd0cfefd7981d84",
+                    "signedUrlExpirationTime": 1710975241770
                 }
             },
             "backendUpgradeVersion": 24,
             "blockly": {
-                "33385919-0a99-4f9d-8e08-d85e7b0de657": {
-                    "xml": "",
-                    "permissions": {
-                        "android": [],
-                        "ios": []
-                    },
-                    "enabledFeatures": {
-                        "location": true,
-                        "iap": false
-                    }
-                },
                 "ae997fcb-c2aa-4331-ae9c-8a7cd57d7e9c": {
                     "xml": "",
                     "permissions": {
@@ -97,7 +102,8 @@
                         "location": true,
                         "iap": false
                     }
-                }
+                },
+                "65e9eab41326e32e2e6d6646": {}
             },
             "categories": [
                 "Just testing"
@@ -106,9 +112,6 @@
                 "children": [
                     {
                         "id": "ae997fcb-c2aa-4331-ae9c-8a7cd57d7e9c"
-                    },
-                    {
-                        "id": "33385919-0a99-4f9d-8e08-d85e7b0de657"
                     },
                     {
                         "id": "fd2339c7-1925-4cdf-b52b-ccefdb75a889"
@@ -127,7 +130,7 @@
             "projectName": "MapIt",
             "settings": {
                 "teamId": null,
-                "appName": null,
+                "appName": "MapIt",
                 "icon": null,
                 "autoIncrementVersion": true,
                 "ignoreNotchArea": false,
@@ -136,8 +139,8 @@
                 "androidVersionCode": 1,
                 "iosVersionNumber": "1",
                 "iosBuildNumber": "1",
-                "firebaseAPIKey": null,
-                "firebaseDatabaseURL": null,
+                "firebaseAPIKey": "AIzaSyDTO0d9iPyaCykk3H7chSJ0VEoOvcfvvTs",
+                "firebaseDatabaseURL": "https://group25-1a145-default-rtdb.firebaseio.com/",
                 "stripePublishableKeyTest": null,
                 "stripePublishableKeyLive": null,
                 "stripeAccountId": null,
@@ -173,7 +176,7 @@
             },
             "projectSettings": {
                 "teamId": null,
-                "appName": null,
+                "appName": "MapIt",
                 "icon": null,
                 "autoIncrementVersion": true,
                 "ignoreNotchArea": false,
@@ -182,8 +185,8 @@
                 "androidVersionCode": 1,
                 "iosVersionNumber": "1",
                 "iosBuildNumber": "1",
-                "firebaseAPIKey": null,
-                "firebaseDatabaseURL": null,
+                "firebaseAPIKey": "AIzaSyDTO0d9iPyaCykk3H7chSJ0VEoOvcfvvTs",
+                "firebaseDatabaseURL": "https://group25-1a145-default-rtdb.firebaseio.com/",
                 "stripePublishableKeyTest": null,
                 "stripePublishableKeyLive": null,
                 "stripeAccountId": null,
@@ -226,10 +229,36 @@
             "customProperties": [],
             "modules": [],
             "usesDragDropUi": true,
-            "totalCopy": "0",
+            "totalCopy": "2",
             "totalStar": "0",
             "starAction": "star",
-            "variables": {},
+            "variables": {
+                "ce75ed1f-78ae-4af1-a3b8-bf84c9eb55a0": {
+                    "scope": "STORED",
+                    "name": "email",
+                    "screenId": "ae997fcb-c2aa-4331-ae9c-8a7cd57d7e9c"
+                },
+                "7532973c-337a-4d51-ba82-adbcdc00b48d": {
+                    "scope": "STORED",
+                    "name": "password",
+                    "screenId": "ae997fcb-c2aa-4331-ae9c-8a7cd57d7e9c"
+                },
+                "71f5b209-2626-4326-82d9-0cb577ae7c76": {
+                    "scope": "APP",
+                    "name": "sessionEmail",
+                    "screenId": "ae997fcb-c2aa-4331-ae9c-8a7cd57d7e9c"
+                },
+                "23ec1de2-80d7-4f68-be05-e9f537229837": {
+                    "scope": "APP",
+                    "name": "userID",
+                    "screenId": "ae997fcb-c2aa-4331-ae9c-8a7cd57d7e9c"
+                },
+                "d1be2fee-e3c6-4884-8356-c450288c7710": {
+                    "scope": "APP",
+                    "name": "currentlySigningUp",
+                    "screenId": "ae997fcb-c2aa-4331-ae9c-8a7cd57d7e9c"
+                }
+            },
             "defaultDesignerDevice": "PHONE",
             "defaultDesignerOrientation": "PORTRAIT",
             "schemaVersion": 2,
