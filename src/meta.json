@@ -7,7 +7,24 @@
                     "children": []
                 }
             },
-            "assets": {},
+            "assets": {
+                "65f889e3c56bd2a07894c2ca": {
+                    "externalStorageType": "GCS",
+                    "_id": "65f889e3c56bd2a07894c2ca",
+                    "size": "68572",
+                    "mimetype": "image/png",
+                    "encoding": "7bit",
+                    "originalname": "Screenshot 2024-03-18 at 2.36.36 PM.png",
+                    "backendURI": "/project/65e9eab41326e32e2e6d6646/getasset/65f889e3c56bd2a07894c2ca",
+                    "name": "Screenshot 2024-03-18 at 2.36.36 PM.png",
+                    "externalName": "users/65afe4c7f0d09be7f6eb7c2e/projects/65e9eab41326e32e2e6d6646/assets/65f889e3c56bd2a07894c2ca",
+                    "createdAt": "2024-03-18T18:37:23.939Z",
+                    "updatedAt": "2024-03-18T18:37:23.939Z",
+                    "__v": 0,
+                    "signedUrl": "https://storage.googleapis.com/thunkable-x-production/users/65afe4c7f0d09be7f6eb7c2e/projects/65e9eab41326e32e2e6d6646/assets/65f889e3c56bd2a07894c2ca?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=thunkable-ios%40thunkable-ios.iam.gserviceaccount.com%2F20240318%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20240318T183723Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=b37b598ae9fc0976520544a1781b04f309ef0df0f8220f32af5b97183d361766e5b3a5530aaff1dbf1e853a9230ca08c3aa660a8e68c6da612b60bca353adce1adff865dcd25b3a7f4c0081d82a6d218fe936c527f0ee91564a9627222c828556108d6fd99a922c9fc37cab2133b5bda49869700da137c0c0d13c0f27fbe74736aa811d64dddf5e5653929e5a90c21ed749ddd40c0b8393e1674d72dc96d72afd6454595ae409e9b2f3b0baff1fef089b213dcd99332dbe720424703bbeb33178a574272a7423430ad46759f3d78d4de1373fcffe3ae87c4329d87d5c3844ac3ba2c09cb36e87a5a069b05517ce2223eaffdc1010536d0dd27b6b6b9bf076b96",
+                    "signedUrlExpirationTime": 1710959843968
+                }
+            },
             "backendUpgradeVersion": 24,
             "blockly": {
                 "33385919-0a99-4f9d-8e08-d85e7b0de657": {
@@ -42,6 +59,28 @@
                         "location": true,
                         "iap": false
                     }
+                },
+                "844fecca-fabb-4851-82da-9e86de3e94cf": {
+                    "xml": "",
+                    "permissions": {
+                        "android": [],
+                        "ios": []
+                    },
+                    "enabledFeatures": {
+                        "location": true,
+                        "iap": false
+                    }
+                },
+                "837324b8-795b-4966-91a0-1616b5648adc": {
+                    "xml": "",
+                    "permissions": {
+                        "android": [],
+                        "ios": []
+                    },
+                    "enabledFeatures": {
+                        "location": true,
+                        "iap": false
+                    }
                 }
             },
             "categories": [
@@ -57,6 +96,12 @@
                     },
                     {
                         "id": "fd2339c7-1925-4cdf-b52b-ccefdb75a889"
+                    },
+                    {
+                        "id": "837324b8-795b-4966-91a0-1616b5648adc"
+                    },
+                    {
+                        "id": "844fecca-fabb-4851-82da-9e86de3e94cf"
                     }
                 ]
             },
@@ -94,7 +139,9 @@
                 "cloudinaryAPIKey": null,
                 "cloudinaryAPISecret": null,
                 "permissions": {
-                    "ios": {}
+                    "ios": {
+                        "usageDescriptions": {}
+                    }
                 },
                 "googleMapAPIKeyAndroid": null,
                 "googleMapAPIKeyIOS": null,
@@ -138,7 +185,9 @@
                 "cloudinaryAPIKey": null,
                 "cloudinaryAPISecret": null,
                 "permissions": {
-                    "ios": {}
+                    "ios": {
+                        "usageDescriptions": {}
+                    }
                 },
                 "googleMapAPIKeyAndroid": null,
                 "googleMapAPIKeyIOS": null,
