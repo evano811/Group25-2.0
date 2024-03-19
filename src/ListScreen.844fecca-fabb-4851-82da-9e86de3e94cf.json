@@ -1,4 +1,5 @@
 {
+    "id": "844fecca-fabb-4851-82da-9e86de3e94cf",
     "type": "Screen",
     "translatedName": "Screen",
     "reactType": "ViewWithProps",
@@ -457,7 +458,6 @@
             "name": "ListTitle"
         }
     ],
-    "id": "844fecca-fabb-4851-82da-9e86de3e94cf",
     "thunkableVersion": 448,
     "name": "ListScreen"
 }

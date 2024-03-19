@@ -1,4 +1,5 @@
 {
+    "id": "fd2339c7-1925-4cdf-b52b-ccefdb75a889",
     "type": "Screen",
     "translatedName": "Screen",
     "reactType": "ViewWithProps",
@@ -54,6 +55,72 @@
         "tabNavigationOptions": {}
     },
     "children": [
+        {
+            "type": "Label",
+            "translatedName": "Label",
+            "reactType": "Text",
+            "properties": {
+                "Text": "",
+                "FontSize": 18,
+                "Font": "",
+                "CustomFont": "",
+                "LineHeight": 1,
+                "Color": "rgba(0, 0, 0, 1)",
+                "Height": 45,
+                "Width": 311,
+                "Visible": true,
+                "X": 33,
+                "Y": 556,
+                "RelativeX": 33,
+                "RelativeY": 556,
+                "ResizeMode": "STRETCH",
+                "style": {
+                    "color": "rgba(0, 0, 0, 1)",
+                    "fontSize": 18,
+                    "fontStyle": "normal",
+                    "textShadowOffset": {},
+                    "letterSpacing": 0,
+                    "textDecorationLine": "none",
+                    "textDecorationStyle": "solid",
+                    "textDecorationColor": "rgba(0, 0, 0, 1)",
+                    "writingDirection": "auto",
+                    "marginTop": 0,
+                    "marginBottom": 0,
+                    "marginLeft": 0,
+                    "marginRight": 0,
+                    "paddingTop": 0,
+                    "paddingBottom": 0,
+                    "paddingLeft": 0,
+                    "paddingRight": 0,
+                    "flexWrap": "wrap",
+                    "borderWidth": 0,
+                    "borderRadius": 0,
+                    "borderColor": "rgba(236, 237, 237, 1)",
+                    "borderStyle": "solid",
+                    "shadowColor": "rgba(0, 0, 0, 0)",
+                    "shadowOpacity": 0,
+                    "scaledShadowOpacity": 0,
+                    "shadowRadius": 0,
+                    "shadowOffset": {
+                        "width": 0,
+                        "height": 0
+                    },
+                    "position": "absolute",
+                    "left": "31.333333333333332%",
+                    "top": "78.64973763118441%",
+                    "lineHeight": 1,
+                    "display": "flex"
+                },
+                "ParentId": "fd2339c7-1925-4cdf-b52b-ccefdb75a889",
+                "position": "absolute",
+                "edgeOffsets": 556,
+                "children": ""
+            },
+            "children": [],
+            "id": "e4720b41-64d0-4c47-affc-5ea9738587d0",
+            "thunkableVersion": 448,
+            "name": "ErrorLabel2"
+        },
         {
             "type": "Image",
             "translatedName": "Image",
@@ -153,7 +220,7 @@
             "children": [],
             "id": "dcdbeeee-4a70-4c98-8983-91f1b9f62bdf",
             "thunkableVersion": 448,
-            "name": "Button1"
+            "name": "ResetPassButton"
         },
         {
             "type": "Label",
@@ -427,7 +494,6 @@
             "name": "ForgotLabel"
         }
     ],
-    "id": "fd2339c7-1925-4cdf-b52b-ccefdb75a889",
     "thunkableVersion": 448,
     "name": "ForgotPwdScreen"
 }
