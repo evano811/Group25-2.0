@@ -1,4 +1,5 @@
 {
+    "id": "837324b8-795b-4966-91a0-1616b5648adc",
     "type": "Screen",
     "translatedName": "Screen",
     "reactType": "ViewWithProps",
@@ -462,7 +463,6 @@
             "name": "RhodyMap"
         }
     ],
-    "id": "837324b8-795b-4966-91a0-1616b5648adc",
     "thunkableVersion": 448,
     "name": "MapScreen"
 }
