@@ -30,7 +30,8 @@
             "flexDirection": "column",
             "justifyContent": "center",
             "alignItems": "center",
-            "display": "flex"
+            "display": "flex",
+            "backgroundColor": "rgba(56, 182, 255, 1)"
         },
         "ShowStatusBar": true,
         "StatusBarStyle": "default",
@@ -52,7 +53,8 @@
         "navigationOptions": {
             "headerStyle": {}
         },
-        "tabNavigationOptions": {}
+        "tabNavigationOptions": {},
+        "BackgroundColor": "rgba(56, 182, 255, 1)"
     },
     "children": [
         {
@@ -229,12 +231,12 @@
                 "Picture": "Mapit.png",
                 "resizeMode": "stretch",
                 "Height": 139,
-                "Width": 315,
+                "Width": 210,
                 "Visible": true,
-                "X": 31,
-                "Y": 22,
-                "RelativeX": 31,
-                "RelativeY": 22,
+                "X": 88,
+                "Y": 18,
+                "RelativeX": 88,
+                "RelativeY": 18,
                 "ResizeMode": "STRETCH",
                 "style": {
                     "marginTop": 0,
@@ -261,7 +263,7 @@
                 "capInsets": {},
                 "ParentId": "ae997fcb-c2aa-4331-ae9c-8a7cd57d7e9c",
                 "position": "absolute",
-                "edgeOffsets": 22
+                "edgeOffsets": 18
             },
             "children": [],
             "id": "b43d554b-92b3-46c2-b234-d9bf9b33225d",
@@ -278,7 +280,7 @@
                 "Font": "",
                 "CustomFont": "",
                 "LineHeight": 1,
-                "Color": "rgba(208, 2, 27, 1)",
+                "Color": "rgba(0, 0, 0, 1)",
                 "Height": 52,
                 "Width": 315,
                 "Visible": true,
@@ -288,7 +290,7 @@
                 "RelativeY": 351,
                 "ResizeMode": "STRETCH",
                 "style": {
-                    "color": "rgba(208, 2, 27, 1)",
+                    "color": "rgba(0, 0, 0, 1)",
                     "fontSize": 14,
                     "fontStyle": "normal",
                     "textShadowOffset": {},
