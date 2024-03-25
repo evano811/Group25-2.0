@@ -4,6 +4,6 @@
 
 * Metrics
 * metrics
-* metrics
+* Metric 3 DAU - we can find how many people are logged on the app at any given time frame: day, week, month, etc.
 * metrics
 * Metric 5 Retention - of previous users, track how many come back and login to the app. So just tracking how many users login instead of sign up.
