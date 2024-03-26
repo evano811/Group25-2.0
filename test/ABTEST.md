@@ -25,8 +25,8 @@
 
 
 
-**A/B Test 3:** Notification
-s
+**A/B Test 3:** Notifications
+
 **User Story 3**
 
 **Engagement**
