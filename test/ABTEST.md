@@ -1,3 +1,5 @@
+#A/B Testing - MapIt#
+
 
 **A/B Test 1:** Color Scheme
 
@@ -51,7 +53,7 @@ To test this hypothesis, we will introduce a feature allowing users to save even
 There is no use to an app that is difficult to navigate through! We want to make sure that our users are able to navigate through all of the great features of our app, such as our map and list views, along with event details. We also want to make a personalized experience for all, so that they can access the features most relevant to them. Users who are able to log in and are brought directly through the app to their most useful screen are more likely to use the app more efficiently. The less time a user takes to find their desired event, the better!
 
 **Experiment:**
-To test our hypothesis, we will introduce personal preferences to the application
+To test our hypothesis, we will introduce personal preferences to the application. At first it can be as simple as a short survey that asks our users if they would like a feature to save preferences, and what preferences they would like to save. Then we would roll out an experimental version of the features most popular amongst our users in order to determine whether these preferences would be beneficial to user experience.
 
 **Variations:**
 - Variant A (Control): Users will be brought to a default view and will navigate to their desired screen manually.
