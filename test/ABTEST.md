@@ -1,7 +1,7 @@
 # A/B Testing - MapIt #
 
 
-**A/B Test 1:** Color Scheme
+## A/B Test 1: Color Scheme
 
 **User Story 1**
 
@@ -15,7 +15,7 @@
 
 
 
-**A/B Test 2:** Should the App have a Profile Section?
+## A/B Test 2: Should the App have a Profile Section?
 
 **User Story 2**
 
@@ -27,7 +27,7 @@
 
 
 
-**A/B Test 3:** Notifications
+## A/B Test 3: Notifications
 
 **User Story 3**
 
@@ -43,7 +43,7 @@ To test this hypothesis, we will introduce a feature allowing users to save even
 - Variant A (Control): Users do not have the option to save events or receive notifications for upcoming events.
 - Variant B (Experimental): Users are provided with the option to save events to a personalized list and opt-in to receive notifications for saved events.
 
-**A/B Test 4:** Notifications
+## A/B Test 4: Notifications
 
 **User Story 4**
 
