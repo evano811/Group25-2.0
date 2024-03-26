@@ -43,7 +43,7 @@ To test this hypothesis, we will introduce a feature allowing users to save even
 - Variant A (Control): Users do not have the option to save events or receive notifications for upcoming events.
 - Variant B (Experimental): Users are provided with the option to save events to a personalized list and opt-in to receive notifications for saved events.
 
-## A/B Test 4: Notifications
+## A/B Test 4: Preferences
 
 **User Story 4**
 
