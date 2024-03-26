@@ -23,3 +23,16 @@
 
 **Experiment:** We will create a survey to see if people like the idea (So we don't have to code anyhting just yet). If the survey comes in mostly positive then we will test out the idea by creating a Profile App first and then adding the a registration for each event. This does not have to come out with the app at first this can be an added feature towards the future if the users like the feature. 
 
+
+
+**A/B Test 3:** Notifications
+
+**Hypothesis:**
+Users will demonstrate increased engagement and retention if they are provided with the option to save events and receive notifications for upcoming saved events.
+
+**Experiment:**
+To test this hypothesis, we will introduce a feature allowing users to save events to a personalized list and opt-in to receive notifications for saved events. We hypothesize that users who utilize this feature will exhibit higher engagement levels and retention rates compared to those who do not have access to this feature.
+
+**Variations:**
+- Variant A (Control): Users do not have the option to save events or receive notifications for upcoming events.
+- Variant B (Experimental): Users are provided with the option to save events to a personalized list and opt-in to receive notifications for saved events.
