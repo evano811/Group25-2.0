@@ -2,8 +2,8 @@
 
 
 ## Assignments
-* US1 - Joseph
-* US2 - Alex
-* US3 - Paul
-* US4 - Andrew
-* US5 - Evan
+* US1 (UI/Signup) - Joseph
+* US2 (SignIn) - Alex
+* US3 (Backend) - Paul
+* US4 (Golden Path) - Andrew
+* US5 (Map) - Evan
